@@ -25,4 +25,4 @@ I am here because I need to complete the task of my csci3251 project in CUHK. Yo
  - Its Microsoft
  - Gitlab
 
-![] (img.PNG)
+![pic] (/img.PNG)
